@@ -1,0 +1,25 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+ }
+
+ p {
+     line-height: 1.5;
+ }
+
+ img {
+     max-height: 400px;
+     max-width: 400px;
+ }
+ 
+ .color {
+     color: royalblue;
+ }
+
+ em {
+    font-size: 19px;
+    color: lightcoral;
+ }
+
+
+
