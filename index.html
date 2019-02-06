@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Young Rae Kim">
+    <meta name="description" content="Workout Buddy">
+    <meta name="keywords" content="workout, excercise, workout helper, workout help, excercises, gym help, how to workout">
+    <title>Workout Buddy: Home</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" aria-label="Navigation Bar">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <img src="logos/gym.png" alt="brand dumbbell logo"> <a class="navbar-brand" href="#">Gym Buddy</a> 
+            </div>
+            <ul class="nav nav-pills nav-justified">
+                <li class="nav-item">
+                    <a class="nav-link active" href="index.html" aria-label="go to main page">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="excercisedb.html" aria-label="go to excersises page">Excercises</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Goals</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><span class="glyphicon glyphicon-login" aria-label="login"></span>Login</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<body>
+    <div class="container-fluid" aria-describedby="Welcome To Gymbuddy">
+        <h1>Welcome to GymBuddy, Brian!</h1>
+        <p>This is your monthly hub, where you can keep track of your daily workouts.</p>
+        <hr>
+    </div>
+    <div class="well">
+    <div class="container text-center">
+        <div class="month"> 
+            <h1 class="monthtitle" aria-describedby="Current Month">January 2017</h1>
+        </div>
+    </div>
+    <div class="container-fluid" aria-describedby="Monthly Progress">
+        <h1>Monthly Progress:</h1>
+        
+        <div class="card-deck mb-3 text-center">
+            <div class="card mb-4 box-shadow" aria-describedby="days workedout this month">
+                <div class="card-header">
+                    <h2>Workouts</h2>
+                </div>
+                <div class="card-body">
+                    <h3 class="numreport green">10 days</h3>
+                </div>
+            </div>
+            <div class="card mb-4 box-shadow" aria-describedby="days missed working out this month">
+                <div class="card-header">
+                    <h2>Missed Days</h2>
+                </div>
+                <div class="card-body">
+                    <h3 class="numreport red">1 day</h3>
+                </div>
+            </div>
+            <div class="card mb-4 box-shadow" aria-describedby="days rested this month"> 
+                <div class="card-header">
+                    <h2>Rest Days</h2>
+                </div>
+                <div class="card-body">
+                    <h3 class="numreport yellow">3 days</h3>
+                </div>
+            </div>
+            <div class="card mb-4 box-shadow" aria-describedby="percent improvement over last month">
+                <div class="card-header">
+                    <h2>Improvement</h2>
+                </div>
+                <div class="card-body">
+                    <h3 class="numreport green">7%</h3>
+                </div>
+            </div>
+        </div> 
+    </div>
+        <!--
+        <h1 class="progtitle">Monthly Progress</h1>
+        <br>
+        <div class="row">
+            <div class="col-sm-3">
+                <p class="report">Days Worked Out:<br>13</p>
+            </div>
+            <div class="col-sm-3"> 
+                <p class="report">Days Skipped:<br>1</p>
+            </div>
+            <div class="col-sm-3"> 
+                <p class="report">Days Rest:<br>3</p>
+            </div>
+            <div class="col-sm-3"> 
+                <p class="report">Improvement:<br>10%</p>
+            </div>
+        </div>
+    </div><br>-->
+
+<!--This is my version 2 calendar made with bootstrap grid elements,
+    It is a Interim calendar until I find something better I can implement down
+    the road.
+    Note that it was also really hard to make this responsive, i got stuck. -->
+    <div class="container-fluid calendar" aria-describedby="Workout calendar for this month">
+        <div class="row days" aria-hidden="true">
+            <div class="col">
+                <h1 class="text-center">Monday</h1>
+            </div>
+            <div class="col">
+                    <h1 class="text-center">Tuesday</h1>
+            </div>
+            <div class="col">
+                    <h1 class="text-center">Wednesday</h1>
+            </div>
+            <div class="col">
+                    <h1 class="text-center">Thursday</h1>
+            </div>
+            <div class="col">
+                    <h1 class="text-center">Friday</h1> 
+            </div>
+            <div class="col">
+                    <h1 class="text-center">Saturday</h1>
+            </div>
+            <div class="col">
+                    <h1 class="text-center">Sunday</h1>
+            </div>
+        </div>
+        <div class="row nums flex-nowrap" aria-hidden="true">
+            <div class="col border done rounded">
+                <p class="text-center text-muted daynum">29<br>Arms<br>&#x1F4AA</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center text-muted daynum">30<br>Legs<br>&#x1F9B5</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center text-muted daynum">31<br>Upper<br>&#x1F4AA</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">1<br>Core<br>&#x1F44D</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">2<br>Cardio<br>&#x1F3C3</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">3<br>Cardio<br>&#x1F3C3</p> 
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">4<br>Triceps<br>&#x1F4AA</p>
+            </div>
+        </div>
+        <div class="row nums flex-nowrap" aria-hidden="true">
+            <div class="col border rest rounded">
+                <p class="text-center daynum">5<br>Rest<br>&#x1F634</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">6<br>Legs<br>&#x1F9B5</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">7<br>Back<br>&#x1F44D</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">8<br>Core<br>&#x1F44D</p>
+            </div>
+            <div class="col border rest rounded">
+                <p class="text-center daynum">9<br>Rest<br>&#x1F634</p>
+            </div>
+            <div class="col border missed rounded">
+                <p class="text-center daynum">10<br>Arms<br>&#x1F4AA</p> 
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">11<br>Upper<br>&#x1F44D</p>
+            </div>
+        </div>
+        <div class="row nums flex-nowrap" aria-hidden="true">
+            <div class="col border done rounded">
+                <p class="text-center daynum">12<br>Core<br>&#x1F44D</p>
+            </div>
+            <div class="col border rest rounded">
+                <p class="text-center daynum">13<br>Rest<br>&#x1F634</p>
+            </div>
+            <div class="col border done rounded">
+                <p class="text-center daynum">14<br>Legs<br>&#x1F9B5</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">15<br>Arms<br>&#x1F4AA</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">16<br>Upper<br>&#x1F4AA</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">17<br>Core<br>&#x1F44D</p> 
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">18<br>Cardio<br>&#x1F3C3</p>
+            </div>
+        </div>
+        <div class="row nums flex-nowrap" aria-hidden="true">
+            <div class="col border rounded">
+                <p class="text-center daynum">19<br>Rest<br>&#x1F634</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">20<br>Rest<br>&#x1F634</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">21<br>Arms<br>&#x1F4AA</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">22<br>Legs<br>&#x1F9B5</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">23<br>Core<br>&#x1F44D</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">24<br>Upper<br>&#x1F4AA</p> 
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">25<br>Chest<br>&#x1F44D</p>
+            </div>
+        </div>
+        <div class="row nums flex-nowrap" aria-hidden="true">
+            <div class="col border rounded">
+                <p class="text-center daynum">26<br>Cardio<br>&#x1F3C3</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">27<br>Rest<br>&#x1F634</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">28<br>Rest<br>&#x1F634</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">29<br>Arms<br>&#x1F4AA</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">30<br>Legs<br>&#x1F9B5</p>
+            </div>
+            <div class="col border rounded">
+                <p class="text-center daynum">31<br>Core<br>&#x1F44D</p> 
+            </div>
+            <div class="col border rounded">
+                <p class="text-center text-muted daynum">1<br>Cardio<br>&#x1F3C3</p>
+            </div>
+        </div>           
+    </div>
+
+<!-- This is my version 1 calendar with ul and li elements,
+    keeping the code just in case.
+    <div class="container-fluid">
+                
+        <ul class="daysofweek">
+            <li>Mo</li>
+            <li>Tu</li>
+            <li>We</li>
+            <li>Th</li>
+            <li>Fr</li>
+            <li>Sa</li>
+            <li>Su</li>
+        </ul>
+                
+        <ul class="daysofmonth"> 
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+            <li>6</li>
+            <li>7</li>
+            <li>8</li>
+            <li>9</li>
+            <li>10</li>
+            <li>11</li>
+            <li>12</li>
+            <li>13</li>
+            <li>14</li>
+            <li>15</li>
+            <li>16</li>
+            <li>17</li>
+            <li>18</li>
+            <li class="currentDay">19</li>
+            <li>20</li>
+            <li>21</li>
+            <li>22</li>
+            <li>24</li>
+            <li>25</li>
+            <li>26</li>
+            <li>27</li>
+            <li>28</li>
+            <li>29</li>
+            <li>30</li>
+        </ul>
+    </div>-->
+</body>
+<footer>
+    <div class="container-fluid">
+        <p>GymBuddy was created by Young Rae Kim for a project in his info 340 class.</p>
+        <address>Contact me at</address> <a href="mailto:yrkim1998@gmail.com">yrkim1998@gmail.com</a>, or at <a href="tel:425-877-3762">(425) 877-3762</a>.</p>
+        <p>&copy; 2019 Young Rae Kim.</p>
+    </div>
+</footer>
+</html>

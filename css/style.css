@@ -1,9 +1,4 @@
-body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 16px;
- }
-
- p {
+p {
      line-height: 1.5;
  }
 
@@ -20,6 +15,139 @@ body {
     font-size: 19px;
     color: lightcoral;
  }
+ .monthtitle {
+    color: black;
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+ }
+.progtitle {
+    color: black;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+.report {
+    color: black;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
 
+.report br {
+    color: turquoise;
+    font-size: 16px
+}
+/*NEW CALENDAR SETTINGS*/
+.nums {
+    height: 130%;
+    width: auto;
+    margin-bottom: 0px;
+}
+.days {
+    height: 130%;
+    width: auto;
+    margin-bottom: 0;
+
+}
+.col.done {
+    background-color: lightgreen;
+}
+.col.missed {
+    background-color: lightsalmon;
+}
+.col.rest{
+    background-color: lightgoldenrodyellow;
+}
+/*new calenday DAYS of WEEK */
+.col h1 {
+    font-size: 200%
+}
+.nums p {
+    font-size: 100%;
+}
+.daynum {
+    font-size: 110%;
+    font-weight: bold;
+}
+.daynum br {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+.navbar-header img {
+    height: 60px;
+    width: auto;
+}
+li button {
+    margin-left: 850%;
+}
+
+/*numreport*/
+.progdesc {
+    display: inline;
+}
+.card-header h2 {
+    font-size: 120%;
+}
+.numreport.green {
+    color: green;
+}
+.numreport.red {
+    color: red;
+}
+.numreport.yellow{
+    color: darkgoldenrod;
+}
+
+@media (max-width: 575.98px) {
+    body{
+        font-size: 60%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    body {
+        font-size: 70%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    body {
+        font-size: 80%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    body {
+        font-size: 90%;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        font-size: 100%;
+    }
+}
+
+.form-group {
+    display: inline;
+}
+.steps li {
+    text-align: left;
+}
+
+footer .container {
+    margin-top: 30px;
+}
+footer {
+    font-size: 70%
+}
+.calendar {
+    width: 100%
+}
+
+
+
+
+  
 
 
