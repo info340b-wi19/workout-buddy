@@ -42,6 +42,12 @@ p {
     width: auto;
     margin-bottom: 0px;
 }
+.days {
+    height: 130%;
+    width: auto;
+    margin-bottom: 0;
+
+}
 
 .col.done {
     background-color: lightgreen;
