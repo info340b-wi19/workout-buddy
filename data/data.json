@@ -1,0 +1,471 @@
+{
+   "count":358,
+   "next":"https://wger.de/api/v2/exercise/?format=json&language=2&page=3",
+   "previous":"https://wger.de/api/v2/exercise/?format=json&language=2",
+   "results":[
+      {
+         "id":473,
+         "license_author":"sthorn",
+         "status":"1",
+         "description":"<p>Perform eveyday.  90 minute wokout.  </p>",
+         "name":"Back, Shoulder, And Leg Stretching.",
+         "name_original":"Back, shoulder, and leg stretching.",
+         "creation_date":"2017-07-13",
+         "uuid":"d7562a07-c9d4-4b03-9724-4ff7d754c980",
+         "license":2,
+         "category":12,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            4
+         ]
+      },
+      {
+         "id":343,
+         "license_author":"sevae",
+         "status":"2",
+         "description":"<p>Place a barbell on the floor at your feet.</p>\n<p>Bending at the waist, grip the barbell with a shoulder with overhand grip.</p>\n<p>With a slow controlled motion, roll the bar out so that your back is straight.</p>\n<p>Roll back up raising your hips and butt as you return to the starting position.</p>",
+         "name":"Barbell Ab Rollout",
+         "name_original":"Barbell Ab Rollout",
+         "creation_date":"2015-07-27",
+         "uuid":"1b9dc5bc-790b-4e21-a55d-f8b3115e94c5",
+         "license":2,
+         "category":10,
+         "language":2,
+         "muscles":[
+            14,
+            6
+         ],
+         "muscles_secondary":[
+            2,
+            12
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":581,
+         "license_author":"Louis",
+         "status":"1",
+         "description":"Bench pressing heavy things using heavy objects",
+         "name":"Barbell Bench Press",
+         "name_original":"Barbell Bench Press",
+         "creation_date":"2018-07-29",
+         "uuid":"fee2c240-9890-4de0-9395-b481eda3bf2d",
+         "license":1,
+         "category":8,
+         "language":2,
+         "muscles":[
+            4
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":407,
+         "license_author":"BePieToday",
+         "status":"2",
+         "description":"<p>Perform leg squats with barbell behind your legs</p>",
+         "name":"Barbell Hack Squats",
+         "name_original":"Barbell Hack Squats",
+         "creation_date":"2016-07-30",
+         "uuid":"1215dad0-b7e0-42c6-80d4-112f69acb68a",
+         "license":2,
+         "category":9,
+         "language":2,
+         "muscles":[
+            10
+         ],
+         "muscles_secondary":[
+            8
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":461,
+         "license_author":"exrx.net",
+         "status":"1",
+         "description":"<p><strong>Preparation</strong></p>\n<p> </p>\n\nSit on floor with long side of bench behind back. Roll barbell back and center over hips. Position upper back on corner of bench. Place feet on floor approximately shoulder width with knees bent. Grasp bar to each side.\n\n<p> </p>\n<p><strong>Execution</strong></p>\n<p> </p>\n\nRaise bar upward by extending hips until straight. Lower and repeat.\n",
+         "name":"Barbell Hip Thrust",
+         "name_original":"Barbell Hip Thrust",
+         "creation_date":"2017-04-15",
+         "uuid":"c96debf3-b245-48f4-977f-b8f79e2b0895",
+         "license":2,
+         "category":9,
+         "language":2,
+         "muscles":[
+            8
+         ],
+         "muscles_secondary":[
+            11,
+            14,
+            10,
+            6
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":405,
+         "license_author":"Mikko Ruohola",
+         "status":"2",
+         "description":"<p>Put barbell on the back of your shoulders. Stand upright, then take the first step forward. Step should bring you forward so that your supporting legs knee can touch the floor. Then stand back up and repeat with the other leg.</p>\n<p>Remember to keep good posture.</p>",
+         "name":"Barbell Lunges",
+         "name_original":"Barbell Lunges",
+         "creation_date":"2016-07-30",
+         "uuid":"ae6a6c23-4616-49b7-a152-49d7461c2b7f",
+         "license":2,
+         "category":9,
+         "language":2,
+         "muscles":[
+            10
+         ],
+         "muscles_secondary":[
+            8
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":522,
+         "license_author":"Umar Qattan",
+         "status":"1",
+         "description":"This is the beset way to do a squat. Just do it and you are good to go",
+         "name":"Barbell Squat",
+         "name_original":"barbell squat",
+         "creation_date":"2017-11-29",
+         "uuid":"4e347281-048b-48e8-a8f3-93510e0668cc",
+         "license":2,
+         "category":8,
+         "language":2,
+         "muscles":[
+            2,
+            1
+         ],
+         "muscles_secondary":[
+            9
+         ],
+         "equipment":[
+            3
+         ]
+      },
+      {
+         "id":344,
+         "license_author":"sevae",
+         "status":"2",
+         "description":"<p>Position barbell overhead with narrow overhand grip.</p>\n<p>Lower forearm behind upper arm with elbows remaining overhead. Extend forearm overhead. Lower and repeat.</p>",
+         "name":"Barbell Triceps Extension",
+         "name_original":"Barbell Triceps Extension",
+         "creation_date":"2015-07-27",
+         "uuid":"2cd5e256-20a7-4bc8-a7a8-d62bf8ce00cf",
+         "license":2,
+         "category":8,
+         "language":2,
+         "muscles":[
+            5
+         ],
+         "muscles_secondary":[
+            2,
+            4
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":451,
+         "license_author":"Daddy-Beckman",
+         "status":"1",
+         "description":"<p>With forearms horizontal and stationary, palms up, curl wrists up then return to down position, repeat</p>",
+         "name":"Barbell Wrist Curls",
+         "name_original":"Barbell Wrist Curls",
+         "creation_date":"2017-02-21",
+         "uuid":"7d81842a-2a9a-48e6-8445-decd03fc1f46",
+         "license":2,
+         "category":8,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":545,
+         "license_author":"Metin",
+         "status":"1",
+         "description":"Why it's on the list: This is technically more than a back exercise—it hits the entire posterior chain from your calves to your upper traps—but it's the absolute best for overall backside development. Technique is uber-important with the deadlift, but once you nail it, you can progress to lifting monster weights that will recruit maximum muscle, release muscle-building hormones, and help you get big.",
+         "name":"Bdeadlift",
+         "name_original":"bdeadlift",
+         "creation_date":"2018-01-15",
+         "uuid":"d48aefb4-ccc2-4e52-8993-2cc4bb585a7b",
+         "license":2,
+         "category":12,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":307,
+         "license_author":"nate303303",
+         "status":"2",
+         "description":"<p>-Rest your weight on your palms and the balls of your feet, not dissimilar to normal pushup position</p>\n<p>-Move by stepping with your R palm and L foot, then your L palm and R foot.  Basically, walk like a lumbering bear.</p>\n<p>-Move as fast as you can.  Measure your reps/sets in either distance (i.e. 40 yards) or time (i.e. 45 seconds)</p>\n<p>-Works your Pecs, Deltoids, Triceps, Traps, Lats, Abs and Lower Back, Hip Flexors, Quads, Glutes and Calves</p>",
+         "name":"Bear Walk",
+         "name_original":"Bear Walk",
+         "creation_date":"2015-02-06",
+         "uuid":"1b8b1657-40fd-4e3b-97b7-1c79b1079f8e",
+         "license":2,
+         "category":11,
+         "language":2,
+         "muscles":[
+            2,
+            7,
+            4,
+            6,
+            3,
+            15,
+            5
+         ],
+         "muscles_secondary":[
+            8,
+            12,
+            14,
+            10,
+            9
+         ],
+         "equipment":[
+            7
+         ]
+      },
+      {
+         "id":388,
+         "license_author":"47db224935ff41e6ad927cedea87e1",
+         "status":"2",
+         "description":"<p>-Rest your weight on your palms and the balls of your feet, not dissimilar to normal pushup position</p>\n<p>-Move by stepping with your R palm and L foot, then your L palm and R foot.  Basically, walk like a lumbering bear.</p>\n<p>-Move as fast as you can.  Measure your reps/sets in either distance (i.e. 40 yards) or time (i.e. 45 seconds)</p>\n<p>-Works your Pecs, Deltoids, Triceps, Traps, Lats, Abs and Lower Back, Hip Flexors, Quads, Glutes and Calves</p>",
+         "name":"Bear Walk",
+         "name_original":"Bear Walk",
+         "creation_date":"2016-02-29",
+         "uuid":"79181b05-1429-45be-bc8a-5bf0913d22b9",
+         "license":2,
+         "category":11,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":529,
+         "license_author":"GageThomas",
+         "status":"1",
+         "description":"lift stuff bro\nand keep going\nand keep going\nand keep going\nand keep going",
+         "name":"BenchPress",
+         "name_original":"BenchPress",
+         "creation_date":"2017-12-07",
+         "uuid":"328074ec-db82-4594-8a9c-962a18fdeaaf",
+         "license":2,
+         "category":11,
+         "language":2,
+         "muscles":[
+            4
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            8
+         ]
+      },
+      {
+         "id":192,
+         "license_author":"sistab2",
+         "status":"2",
+         "description":"<p>Lay down on a bench, the bar should be directly above your eyes, the knees are somewhat angled and the feet are firmly on the floor. Concentrate, breath deeply and grab the bar more than shoulder wide. Bring it slowly down till it briefly touches your chest at the height of your nipples. Push the bar up.</p>\n<p>If you train with a high weight it is advisable to have a <em>spotter</em> that can help you up if you can't lift the weight on your own.</p>\n<p>With the width of the grip you can also control which part of the chest is trained more:</p>\n<ul>\n<li>wide grip: outer chest muscles</li>\n<li>narrow grip: inner chest muscles and triceps</li>\n</ul>",
+         "name":"Bench Press",
+         "name_original":"Bench Press",
+         "creation_date":"2013-08-11",
+         "uuid":"5da6340b-22ec-4c1b-a443-eef2f59f92f0",
+         "license":1,
+         "category":11,
+         "language":2,
+         "muscles":[
+            4
+         ],
+         "muscles_secondary":[
+            1
+         ],
+         "equipment":[
+            1,
+            8
+         ]
+      },
+      {
+         "id":97,
+         "license_author":"wger.de",
+         "status":"2",
+         "description":"<p>The movement is very similar to benchpressing with a barbell, however, the weight is brought down to the chest at a lower point.</p>\n<p>Hold two dumbbells and lay down on a bench. Hold the weights next to the chest, at the height of your nipples and press them up till the arms are stretched. Let the weight slowly and controlled down.</p>",
+         "name":"Benchpress Dumbbells",
+         "name_original":"Benchpress dumbbells",
+         "creation_date":null,
+         "uuid":"0ec76f5d-1311-4d6d-bf79-00fa17c3061a",
+         "license":1,
+         "category":11,
+         "language":2,
+         "muscles":[
+            4
+         ],
+         "muscles_secondary":[
+            2,
+            5
+         ],
+         "equipment":[
+            8,
+            3
+         ]
+      },
+      {
+         "id":88,
+         "license_author":"wger.de",
+         "status":"2",
+         "description":"<p>Lay down on a bench, the bar is directly over your eyes, the knees form a slight angle and the feet are firmly on the ground. Hold the bar with a narrow grip (around 20cm.). Lead the weight slowly down till the arms are parallel to the floor (elbow: right angle), press then the bar up. When bringing the bar down, don't let it down on your nipples as with the regular bench pressing, but somewhat lower.</p>",
+         "name":"Bench Press Narrow Grip",
+         "name_original":"Bench press narrow grip",
+         "creation_date":null,
+         "uuid":"03d821e7-e1ac-4026-903b-d406381cbf76",
+         "license":1,
+         "category":8,
+         "language":2,
+         "muscles":[
+            5
+         ],
+         "muscles_secondary":[
+            2,
+            4
+         ],
+         "equipment":[
+            1,
+            8
+         ]
+      },
+      {
+         "id":247,
+         "license_author":"Topi88",
+         "status":"1",
+         "description":"<p>Klupa</p>",
+         "name":"Bendž",
+         "name_original":"Bendž",
+         "creation_date":"2014-04-12",
+         "uuid":"09c5ac50-89cb-4988-8608-8b703e44adb7",
+         "license":1,
+         "category":11,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":268,
+         "license_author":"lakerbeezel",
+         "status":"2",
+         "description":"<p>Bend over slightly while holding two dumbbells.  Pull the dumbbells up to your chest, keeping your elbows as high as you can.</p>",
+         "name":"Bent High Pulls",
+         "name_original":"Bent High Pulls",
+         "creation_date":"2014-09-01",
+         "uuid":"34ce7ec5-12a1-4bf8-b4f1-94544c3f1cfc",
+         "license":1,
+         "category":13,
+         "language":2,
+         "muscles":[
+            9
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            3
+         ]
+      },
+      {
+         "id":412,
+         "license_author":"warchildmd",
+         "status":"2",
+         "description":"<ol>\n<li>Holding a barbell with a pronated grip (palms facing down), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.</li>\n<li>Now, while keeping the torso stationary, breathe out and lift the barbell to you. Keep the elbows close to the body and only use the forearms to hold the weight. At the top contracted position, squeeze the back muscles and hold for a brief pause.</li>\n<li>Then inhale and slowly lower the barbell back to the starting position.</li>\n<li>Repeat for the recommended amount of repetitions.</li>\n</ol>",
+         "name":"Bent Over Barbell Row",
+         "name_original":"Bent Over Barbell Row",
+         "creation_date":"2016-08-15",
+         "uuid":"b8466ace-ebc7-42bb-941c-39e0e7e67a4f",
+         "license":2,
+         "category":12,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":362,
+         "license_author":"sebk",
+         "status":"2",
+         "description":"<p>With dumbbells in hand, bend at the hip until hands hang just below the knees (similar to straight-legged-deadlift starting position). Keep upper body angle constant while contracting your lats to pull you ellbows back pinching the shoulder blades at the top. Try not to stand up with every rep, check hands go below knees on every rep.</p>",
+         "name":"Bentover Dumbbell Rows",
+         "name_original":"Bentover Dumbbell Rows",
+         "creation_date":"2016-01-05",
+         "uuid":"f866fd75-c18d-4419-84b9-1b9ccd22adba",
+         "license":2,
+         "category":12,
+         "language":2,
+         "muscles":[
+            12
+         ],
+         "muscles_secondary":[
+            1,
+            11,
+            13
+         ],
+         "equipment":[
+            3
+         ]
+      }
+   ]
+}

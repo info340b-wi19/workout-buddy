@@ -1,0 +1,460 @@
+{
+   "count":358,
+   "next":"https://wger.de/api/v2/exercise/?format=json&language=2&page=4",
+   "previous":"https://wger.de/api/v2/exercise/?format=json&language=2&page=2",
+   "results":[
+      {
+         "id":421,
+         "license_author":"apeschel",
+         "status":"2",
+         "description":"<p>Sit on bench while holding weights. Bend forward as far as possible, with arms slightly bent at the elbow. Perform a lateral raise while maintaining the bend in your elbow.</p>",
+         "name":"Bent-over Lateral Raises",
+         "name_original":"Bent-over Lateral Raises",
+         "creation_date":"2016-09-29",
+         "uuid":"170cc52f-345f-41b3-bdae-8a5e0c9aa449",
+         "license":2,
+         "category":13,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            8,
+            3
+         ]
+      },
+      {
+         "id":109,
+         "license_author":"wger.de",
+         "status":"2",
+         "description":"<p>Grab the barbell with a wide grip (slightly more than shoulder wide) and lean forward. Your upper body is not quite parallel to the floor, but forms a slight angle. The chest's out during the whole exercise.</p>\n<p>Pull now the barbell with a fast movement towards your belly button, not further up. Go slowly down to the initial position. Don't swing with your body and keep your arms next to your body.</p>",
+         "name":"Bent Over Rowing",
+         "name_original":"Bent over rowing",
+         "creation_date":null,
+         "uuid":"f82c579e-c069-4dc7-8e36-a3266dfd8e4a",
+         "license":1,
+         "category":12,
+         "language":2,
+         "muscles":[
+            12
+         ],
+         "muscles_secondary":[
+            2,
+            1
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":110,
+         "license_author":"wger.de",
+         "status":"2",
+         "description":"<p>The same as <em>regular</em> rowing, but holding a reversed grip (your palms pointing forwards):</p>\n<p>Grab the barbell with a wide grIp (slightly more than shoulder wide) and lean forward. Your upper body is not quite parallel to the floor, but forms a slight angle. The chest's out during the whole exercise.</p>\n<p>Pull now the barbell with a fast movement towards your belly button, not further up. Go slowly down to the initial position. Don't swing with your body and keep your arms next to your body.</p>",
+         "name":"Bent Over Rowing Reverse",
+         "name_original":"Bent over rowing reverse",
+         "creation_date":null,
+         "uuid":"77688310-f2cf-4d37-a854-dca906387be7",
+         "license":1,
+         "category":12,
+         "language":2,
+         "muscles":[
+            12
+         ],
+         "muscles_secondary":[
+            2,
+            1
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":598,
+         "license_author":"Harsh_ViaTeams",
+         "status":"1",
+         "description":"<p>A user is doing bicep., He is doing it with dumbbell, It can be done by standing or sitting  </p>",
+         "name":"Bicep",
+         "name_original":"Bicep",
+         "creation_date":"2018-09-19",
+         "uuid":"cc58908c-16f7-4559-b4af-47c4ddf7ae5c",
+         "license":2,
+         "category":13,
+         "language":2,
+         "muscles":[
+            1,
+            11
+         ],
+         "muscles_secondary":[
+            1,
+            11
+         ],
+         "equipment":[
+            3
+         ]
+      },
+      {
+         "id":482,
+         "license_author":"harsha0116@gmail.com",
+         "status":"1",
+         "description":"<p>Bicep Curls to max use you bicep to curl weight</p>",
+         "name":"Bicep Curls",
+         "name_original":"Bicep Curls",
+         "creation_date":"2017-09-21",
+         "uuid":"854d1e63-962b-452c-9250-95589d2b5b61",
+         "license":2,
+         "category":8,
+         "language":2,
+         "muscles":[
+            2,
+            1
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":542,
+         "license_author":"Metin",
+         "status":"1",
+         "description":"While you rate this No. 1, we give it mixed reviews. The incline bench position increases the stretch on the long head of the biceps, while the neutral grip increases emphasis on the brachioradialis and brachialis. But the \"hammer\" takes some of the tension away from the long head, negating the benefit you gain from sitting at an incline.  Test this yourself by simply placing your right hand on your left biceps. Move your left hand from palm up to palm sideways and you can feel the tension change in your biceps.",
+         "name":"Biceps",
+         "name_original":"biceps",
+         "creation_date":"2018-01-15",
+         "uuid":"085a5f5a-cc5e-4064-bada-370bbada46bd",
+         "license":2,
+         "category":8,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":74,
+         "license_author":"wger.de",
+         "status":"2",
+         "description":"<p>Hold the Barbell shoulder-wide, the back is straight, the shoulders slightly back, the arms are streched. Bend the arms, bringing the weight up, with a fast movement. Without pausing, let down the bar with a slow and controlled movement.</p>\n<p>Don't allow your body to swing during the exercise, all work is done by the biceps, which are the only mucles that should move (pay attention to the elbows).</p>",
+         "name":"Biceps Curls With Barbell",
+         "name_original":"Biceps curls with barbell",
+         "creation_date":null,
+         "uuid":"c56078d2-ae85-4524-a467-d1e143b6df1a",
+         "license":1,
+         "category":8,
+         "language":2,
+         "muscles":[
+            1
+         ],
+         "muscles_secondary":[
+            13
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":81,
+         "license_author":"wger.de",
+         "status":"2",
+         "description":"<p>Hold two barbells, the arms are streched, the hands are on your side, the palms face inwards. Bend the arms and bring the weight with a fast movement up. At the same time, rotate your arms by 90 degrees at the very beginning of the movement. At the highest point, rotate a little the weights further outwards. Without a pause, bring them down, slowly.</p>\n<p>Don't allow your body to swing during the exercise, all work is done by the biceps, which are the only mucles that should move (pay attention to the elbows).</p>",
+         "name":"Biceps Curls With Dumbbell",
+         "name_original":"Biceps curls with dumbbell",
+         "creation_date":null,
+         "uuid":"48a59aa8-4568-409c-8afe-f8cb99c558ea",
+         "license":1,
+         "category":8,
+         "language":2,
+         "muscles":[
+            1
+         ],
+         "muscles_secondary":[
+            13
+         ],
+         "equipment":[
+            3
+         ]
+      },
+      {
+         "id":80,
+         "license_author":"wger.de",
+         "status":"2",
+         "description":"<p>Hold the SZ-bar shoulder-wide, the back is straight, the shoulders slightly back, the arms are streched. Bend the arms, bringing the weight up, with a fast movement. Without pausing, let down the bar with a slow and controlled movement.</p>\n<p>Don't allow your body to swing during the exercise, all work is done by the biceps, which are the only mucles that should move (pay attention to the elbows).</p>",
+         "name":"Biceps Curls With SZ-bar",
+         "name_original":"Biceps curls with SZ-bar",
+         "creation_date":null,
+         "uuid":"38919515-ce04-4383-9c3f-5846edd0e844",
+         "license":1,
+         "category":8,
+         "language":2,
+         "muscles":[
+            1
+         ],
+         "muscles_secondary":[
+            13
+         ],
+         "equipment":[
+            2
+         ]
+      },
+      {
+         "id":129,
+         "license_author":"wger.de",
+         "status":"2",
+         "description":"<p>Stand around 30 - 40cm away from the cable, the feet are firmly on the floor. Take the bar and lift the weight with a fast movements. Lower the weight as with the dumbbell curls slowly and controlled.</p>",
+         "name":"Biceps Curl With Cable",
+         "name_original":"Biceps curl with cable",
+         "creation_date":null,
+         "uuid":"8c6c1544-cbf8-403c-ae12-b27b392702f8",
+         "license":1,
+         "category":8,
+         "language":2,
+         "muscles":[
+            1
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":561,
+         "license_author":"gustavo",
+         "status":"1",
+         "description":"ah system she he dhdhdnsjdndndnd dhdhdnsjdndndnd dude dhdhdnsjdndndnd xhdn",
+         "name":"Bigmarms",
+         "name_original":"bigmarms",
+         "creation_date":"2018-03-31",
+         "uuid":"fa8031c1-e1b3-4509-ba26-625a9930b7a3",
+         "license":1,
+         "category":8,
+         "language":2,
+         "muscles":[
+            1
+         ],
+         "muscles_secondary":[
+            1
+         ],
+         "equipment":[
+            3
+         ]
+      },
+      {
+         "id":523,
+         "license_author":"amirvahid",
+         "status":"1",
+         "description":"<p>bike adjasjaf; afahf a;ifh a'f afjha f/af</p>\n<p>af ha'fauf</p>\n<p> af a</p>\n<p>faif</p>\n<p>a fa</p>\n<p>f</p>",
+         "name":"Bike Ride",
+         "name_original":"bike ride",
+         "creation_date":"2017-12-01",
+         "uuid":"5d79179d-7057-49ae-ab54-8f2ca6f900c2",
+         "license":2,
+         "category":9,
+         "language":2,
+         "muscles":[
+            12,
+            14
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            10
+         ]
+      },
+      {
+         "id":524,
+         "license_author":"amirvahid",
+         "status":"1",
+         "description":"<p>bike adjasjaf; afahf a;ifh a'f afjha f/af</p>\n<p>af ha'fauf</p>\n<p> af a</p>\n<p>faif</p>\n<p>a fa</p>\n<p>f</p>",
+         "name":"Bike Ride",
+         "name_original":"bike ride",
+         "creation_date":"2017-12-01",
+         "uuid":"005e257e-386f-4567-975f-ed9caa54e97f",
+         "license":2,
+         "category":9,
+         "language":2,
+         "muscles":[
+            12,
+            14
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            10
+         ]
+      },
+      {
+         "id":273,
+         "license_author":"colinp23",
+         "status":"1",
+         "description":"<p>Biking</p>",
+         "name":"Biking",
+         "name_original":"Biking",
+         "creation_date":"2014-09-13",
+         "uuid":"27a0b190-0e72-4aa5-9d7b-c7b7e3c345ec",
+         "license":1,
+         "category":9,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":272,
+         "license_author":"colinp23",
+         "status":"1",
+         "description":"<p>Biking</p>",
+         "name":"Biking",
+         "name_original":"Biking",
+         "creation_date":"2014-09-13",
+         "uuid":"bde91b45-f954-4022-b157-90234a88a65d",
+         "license":1,
+         "category":9,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":530,
+         "license_author":"slhannah",
+         "status":"1",
+         "description":"<p> </p>\n<p>Kneel on floor with your hands placed about shoulder width apart.</p>\n<p> </p>\n<p>Point one arm out straight in front and extend the opposite leg to the rear. The shoulders and the hips should be parallel.</p>\n<p> </p>\n<p>Hold for 10 seconds and return to ground position.</p>\n<p> </p>\n<p>Start with 5 reps on alternate hands and knees, 10  in total. Add up to 3 sets of 10.</p>\n<p> </p>\n<p>As a variation, you can do several bird dogs with one side and then do a set with just the other side.</p>\n<p> </p>\n<p>Keep the abs engaged while you change sides. Work to minimize any extra motion during the weight shift.</p>\n<p> </p>",
+         "name":"Bird Dog",
+         "name_original":"Bird Dog",
+         "creation_date":"2017-12-15",
+         "uuid":"7b9b9e82-570d-4a0b-8727-054ed1cbc995",
+         "license":3,
+         "category":10,
+         "language":2,
+         "muscles":[
+            2,
+            8,
+            9
+         ],
+         "muscles_secondary":[
+            4
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":531,
+         "license_author":"https://dynamicclinic.com/",
+         "status":"1",
+         "description":"<p> </p>\n<p> </p>\n<p>This is a great exercise for patients who DON’T suffer from lumbar disc injuries…  this exercise is great when you are looking to strengthen the low back.   </p>\n<p> </p>\n<p>Get on all fours, knees behind the hips.  Engager the Kegel muscles (the muscles you use to stop peeing) and raise your opposite arm and leg, while maintaining the contraction of the Kegel muscles.  If at any time you cannot maintain the muscle contraction, begin over.   Perform this exercise for at least 10 times per side, increasing the number as you get stronger.  </p>\n<p> </p>\n<p> </p>",
+         "name":"Bird Dog",
+         "name_original":"Bird Dog",
+         "creation_date":"2017-12-15",
+         "uuid":"dea7c5ba-3b43-4748-9da1-b01b04b36782",
+         "license":3,
+         "category":10,
+         "language":2,
+         "muscles":[
+            2,
+            8,
+            9
+         ],
+         "muscles_secondary":[
+            4
+         ],
+         "equipment":[
+            1
+         ]
+      },
+      {
+         "id":316,
+         "license_author":"vince63",
+         "status":"1",
+         "description":"<p>6 Second Reps Max 15 Reps</p>\n<p>6 Second Reps Max 15 Reps</p>",
+         "name":"Body Squats",
+         "name_original":"Body Squats",
+         "creation_date":"2015-03-07",
+         "uuid":"b99bc37b-c1a9-4321-a695-57e1cefe1d60",
+         "license":2,
+         "category":9,
+         "language":2,
+         "muscles":[
+
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+
+         ]
+      },
+      {
+         "id":341,
+         "license_author":"cal.zabel",
+         "status":"2",
+         "description":"<ol>\n<li>Assume a plank position on the ground. You should be supporting your bodyweight on your toes and forearms, keeping your torso straight. Your forearms should be shoulder-width apart. This will be your starting position.</li>\n<li>Pressing your palms firmly into the ground, extend through the elbows to raise your body from the ground. Keep your torso rigid as you perform the movement.</li>\n<li>Slowly lower your forearms back to the ground by allowing the elbows to flex.</li>\n<li>Repeat as needed.</li>\n</ol>",
+         "name":"Body-Ups",
+         "name_original":"Body-Ups",
+         "creation_date":"2015-07-21",
+         "uuid":"4e15a410-5530-4b86-964f-8af26e118e2b",
+         "license":2,
+         "category":8,
+         "language":2,
+         "muscles":[
+            5
+         ],
+         "muscles_secondary":[
+
+         ],
+         "equipment":[
+            7
+         ]
+      },
+      {
+         "id":604,
+         "license_author":"tanous",
+         "status":"1",
+         "description":"<p> </p>\n<p>Bodyweight Squats are a simple exercise that requires no equipment what soever (Though there are variants that add weights).</p>\n<p> </p>\n<ol>\n<li>\n<p>Setup by standing up straight and placing your feet slightly further then shoulder width apart with your feet pointing slightly outwards. Hold your arms straight out infront.</p>\n</li>\n<li>\n<p>'squat' down leading with your hips as if you are going to sit down on a chair, untill your hip is parallel with or lower then your knees. While doing this you should keep your back straight and your body weight should be towards the back of your feet. Your knees shouldn't should end up behind your toes. If they are in front of them you are not leading the squat with your hips and will have the wrong posture.</p>\n</li>\n<li>\n<p>Stand back up and repeat as necessary.</p>\n</li>\n</ol>\n<p> </p>\n<p> </p>\n<p>Holding your arms straight out in front of you will help you keep the correct posture through out the exercise. It's also helpful in maintaining posture to choose a point on the wall to focus on.</p>\n<p></p>\n<p></p>",
+         "name":"Bodyweight Squats",
+         "name_original":"Bodyweight Squats",
+         "creation_date":"2018-10-07",
+         "uuid":"1d60b6ef-8017-4789-a982-94e0c9e3adef",
+         "license":3,
+         "category":9,
+         "language":2,
+         "muscles":[
+            11,
+            10
+         ],
+         "muscles_secondary":[
+            8
+         ],
+         "equipment":[
+            7
+         ]
+      }
+   ]
+}

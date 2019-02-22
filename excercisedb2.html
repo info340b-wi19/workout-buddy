@@ -6,14 +6,9 @@
     <meta name="author" content="Young Rae Kim">
     <meta name="description" content="Workout Buddy">
     <meta name="keywords" content="workout, excercise, workout helper, workout help, excercises, gym help, how to workout">
-    <title>Workout Buddy: Exercise Database</title>
-    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <title>Workout Buddy: Home</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" type="image/x-icon" href="logos/gym.ico">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.min.js"></script>
-
-    
 </head>
 <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light" aria-label="Navigation Bar">
@@ -49,55 +44,25 @@
                 <form>
                     <div class="form-group rounded">
                         <label>Search: </label>
-                        <input type="name" id="searchbox" aria-label="input workout name to search" placeholder="Excercise Name?">
+                        <input type="name" id="input-workout" aria-label="input workout name to search" placeholder="Excercise Name?">
                     </div>
-                    <button id="searchsubmit" type="submit" class="btn btn-primary" aria-label="submit button">Submit</button>
+                    <button type="submit" class="btn btn-primary" aria-label="submit button">Submit</button>
                 </form>
             </div>
         </div>
     </div>
     <div class="container">
         <div class="row text-center">
-            <div id="arms" class="col-2"><button type="button" class="btn btn-info" aria-label="arm workouts">Arms</button></div>
-            <div id="legs" class="col-2"><button type="button" class="btn btn-info" aria-label="leg workouts">Legs</button></div>
-            <div id="core" class="col-2"><button type="button" class="btn btn-info" aria-label="core workouts">Core</button></div>
-            <div id="chest" class="col-2"><button type="button" class="btn btn-info" aria-label="chest workouts">Chest</button></div>
-            <div id="back" class="col-2"><button type="button" class="btn btn-info" aria-label="cardio workouts">Back</button></div>
-            <div id="misc" class="col-2"><button type="button" class="btn btn-primary" aria-label="miscallaneous workouts">Show All</button></div>
+            <div class="col-2"><button type="button" class="btn btn-primary" aria-label="arm workouts">Arms</button></div>
+            <div class="col-2"><button type="button" class="btn btn-info" aria-label="leg workouts">Legs</button></div>
+            <div class="col-2"><button type="button" class="btn btn-info" aria-label="core workouts">Core</button></div>
+            <div class="col-2"><button type="button" class="btn btn-info" aria-label="upper body workouts">Upper Body</button></div>
+            <div class="col-2"><button type="button" class="btn btn-info" aria-label="cardio workouts">Cardio</button></div>
+            <div class="col-2"><button type="button" class="btn btn-info" aria-label="miscallaneous workouts">Misc.</button></div>
         </div>
     </div>
- 
     <hr>
-    <div class="container" id="forButton">
-        <div class="row text-center">
-            <button id="totalbutton" type="button" class="btn btn-outline-primary btn-lg" data-toggle="modal" data-target="#myModal" aria-label="all saved workouts">My Workout (<span id="ex-count">0</span>)</button>
-            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-label="all saved exercises window" aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h2 class="modal-title" id="saved workouts">Your Saved Workout</h2>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                            </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                <button id="savebutton" type="button" class="btn btn-primary">Save Workout</button>
-                                <button id="deletebutton" type="button" class="btn btn-danger">Delete Workout</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-        </div>
-    </div>
-    <div class="bd-callout bd-callout-info text-center">
-        <h3> Double Click on tiles to save exercises to your list! </h3>
-    </div>
-    
-    <div id="cardDeck" class="container-fluid" aria-label="all exercises">
-        <!--
+    <div class="container-fluid">
         <div class="card-deck mb-3 text-center">
             <div class="card mb-4 box-shadow" aria-label="How to dumbell Curl">
                 <div class="card-header">
@@ -199,15 +164,11 @@
                     <em>Keep your arms shoulder width apart!</em>
                 </div>
             </div>
-        </div>-->
+        </div>
     </div>
 </body>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<script src="./js/test.js"></script>
 <footer>
-    <div class="container-fluid" aria-label="site credits">
+    <div class="container-fluid">
         <p>GymBuddy was created by Young Rae Kim for a project in his info 340 class.</p>
         <address>Contact me at</address> <a href="mailto:yrkim1998@gmail.com">yrkim1998@gmail.com</a>, or at <a href="tel:425-877-3762">(425) 877-3762</a>.</p>
         <p>&copy; 2019 Young Rae Kim.</p>
