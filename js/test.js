@@ -32,7 +32,10 @@ while(page <= 18) {
         })
         .then(function() {
             buildCardDeck(results.keep);
-        });
+        })
+        .catch(function(err) {
+            console.log('error in fetch!')
+        });;
     page++;
 }
 
